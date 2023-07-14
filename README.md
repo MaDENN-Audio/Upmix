@@ -4,7 +4,7 @@
 
 ## Samples
 
-The provided audio examples were downloaded from Youtube. We did not create the original audio, nor do we own it. However, the upmixed audios are entirely our property, based of the proposed algorithm. The links for Youtube are provided below:
+The provided audio examples were downloaded from Youtube. We did not create the original audio, nor do we own it. However, the upmixed audios are entirely our property, based on the proposed algorithm. The links for Youtube are provided below:
 
 - L'Impératrice — Anomalie bleue [link](https://www.youtube.com/watch?v=kGxOaDdg2kI&ab_channel=L%27Imp%C3%A9ratrice)
 
