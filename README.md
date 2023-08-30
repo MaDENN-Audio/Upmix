@@ -14,6 +14,6 @@ The provided audio examples were downloaded from Youtube. We did not create the 
 
 - Furious 7 [link](https://www.youtube.com/watch?v=Skpu5HaVkOc&t=80s&ab_channel=TheFastSaga)
 
-- Moon knight [link] (https://www.youtube.com/watch?v=x7Krla_UxRg&ab_channel=MarvelEntertainment)
+- Moon knight [link](https://www.youtube.com/watch?v=x7Krla_UxRg&ab_channel=MarvelEntertainment)
 
 - Top Gun Maverick [link](https://www.youtube.com/watch?v=giXco2jaZ_4&ab_channel=ParamountPictures)
